@@ -1,3 +1,3 @@
 # Coursera_Capstone
 Applied Data Science Capstone
-C:\Users\hollst3\Pictures\the1.jpg
+![alt text](https://github.com/[StuartH85]/[Coursera_Capstone]/blob/[Main]/the1.jpg?raw=true)
